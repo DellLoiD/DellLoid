@@ -1,16 +1,17 @@
 ## Hi there 👋
+Education: Petrozavodsk State University
+Specialty: Engineer
 
-<!--
-**DellLoiD/DellLoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experience:
+Developed more than 800 Autotests in C# for a mobile application on Android.
+Created a direction in the Selenium+C# stack for developing web autotests.
 
-Here are some ideas to get you started:
+About Me:
+I have experience in testing mobile and web applications.
+I'm learning C# in the context of the Unity editor.
+I have experience using task managers: Asana, Trello.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Key skills:
+C#
+Selenium
+Possession of automated testing skills
