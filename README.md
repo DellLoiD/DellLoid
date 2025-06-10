@@ -1,17 +1,8 @@
 ## Hi there 👋
-Education: Petrozavodsk State University
-Specialty: Engineer
+Образование: Петрозаводский государственный университет Специальность: Инженер
 
-Experience:
-Developed more than 800 Autotests in C# for a mobile application on Android.
-Created a direction in the Selenium+C# stack for developing web autotests.
+Опыт: Разработал более 800 автотестов на языке C# для мобильного приложения на Android. Создал направление в стеке Selenium+C# по разработке веб-автотестов.
 
-About Me:
-I have experience in testing mobile and web applications.
-I'm learning C# in the context of the Unity editor.
-I have experience using task managers: Asana, Trello.
+Обо мне: Имею опыт тестирования мобильных и веб-приложений. Изучаю C# в контексте редактора Unity. Имею опыт использования менеджеров задач: Asana, Trello.
 
-Key skills:
-C#
-Selenium
-Possession of automated testing skills
+Ключевые навыки: C# Selenium Владение навыками автоматизированного тестирования
