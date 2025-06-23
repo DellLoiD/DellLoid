@@ -24,7 +24,7 @@
 #### Стек: Python, OpenAI API, llama_index, gcsfs, nest-asyncio
 ***
 ### Написал простой телеграмм бот который задает вопросы по квизу.
-📌Написал простую структуру телеграмм бота в VS  Code.  Реализовал несколько команд. [Ссылка на проект]([https://github.com/DellLoiD/TlBotQuiz.git](https://github.com/DellLoiD/TlBotQuiz/blob/e99381a1377bf4844b4c63ea9ed955bce2ee2c6c/README.md)
+📌Написал простую структуру телеграмм бота в VS  Code.  Реализовал несколько команд. [Ссылка на проект](https://github.com/DellLoiD/TlBotQuiz.git](https://github.com/DellLoiD/TlBotQuiz/blob/e99381a1377bf4844b4c63ea9ed955bce2ee2c6c/README.md)
 https://github.com/DellLoiD/CLINEtaskManager/blob/3d826f8b961491fdbd631a4e84b2e61ba286facd/README.md
 #### Стек: Python, aiogram, aiosqlite, Jupyter Notebook
 ***
