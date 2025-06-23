@@ -37,7 +37,12 @@ https://github.com/DellLoiD/CLINEtaskManager/blob/3d826f8b961491fdbd631a4e84b2e6
 ### Образование и курсы
 
 2024-2025 Разработчик нейросетей, The Founder (профессиональная переподготовка)
+
 2022-2023 - Team Lead QA Department
+
 2022 - геймдизайнер гиперкэжуал игр.
+
 2019 - 2021 QA lead на проекте match3. Платформы Android/IOS
+
 2018 - 2019 QA engineer. Платформы Android/IOS
+
