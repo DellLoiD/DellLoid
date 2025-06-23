@@ -16,7 +16,7 @@
 
 Создал прототип определяющий болезнь по жалобе пациента. [Ссылка на проект](https://github.com/DellLoiD/Therapist-assistant/blob/bb3bb2484932bf5ff587d468a4f1fe91c97318c3/README.md)
 
-# Стек: Python, pandas, google collab, transformers, torch, datasets.
+#### Стек: Python, pandas, google collab, transformers, torch, datasets.
 
 📌 Нейро-помощник на основе RAG с использованием gpt-3.5  и построением графа.
 В гугл коллаб разработал RAG систему отвечающие на вопросы по pdf документу. [Ссылка на проект](https://github.com/DellLoiD/City-Guide/blob/24ceb282e499c523cf355cc1f5c66b5956d629ca/README.md)
