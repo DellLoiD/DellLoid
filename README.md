@@ -16,7 +16,7 @@
 
 📌Создал инструмент  с  функционалом от очистки датасета до обучения и инференса — с воспроизводимостью и контролем изменений. [Ссылка на проект](https://github.com/DellLoiD/ml-data-pipeline.git)
 #### Стек: Python, Pandas, Scikit-learn, PySide6, joblib, category_encoders, GUI  
-
+***
 ### Прототип чат-бота Он-лайн Терапефт.
 
 📌Создал прототип определяющий болезнь по жалобе пациента. [Ссылка на проект](https://github.com/DellLoiD/Therapist-assistant.git)
