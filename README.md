@@ -15,7 +15,8 @@
 ### GUI-инструмент для end-to-end обработки данных и ML-моделирования
 
 📌Создал инструмент  с  функционалом от очистки датасета до обучения и инференса - с воспроизводимостью и контролем изменений. [Ссылка на проект](https://github.com/DellLoiD/ml-data-pipeline.git)
-#### Стек: Python, Pandas, Scikit-learn, PySide6, joblib, category_encoders, GUI  
+#### Стек: PySide6 6.7.0; pandas 2.0.0; numpy 1.21.0; scikit-learn 1.3.0; joblib 1.3.0; psutil; category-encoders 2.6.0; imbalanced-learn 0.10.0; 
+#### scipy 1.10.0; optuna; matplotlib 3.7.0; seaborn 0.12.0; shap 0.41.0; openpyxl 3.1.0;  xlrd 2.0.1; pyarrow 12.0.0              
 ***
 ### Прототип чат-бота Он-лайн Терапефт.
 
